@@ -1,0 +1,3 @@
+h1 { font-size: 20px; margin: 0 0 20px; color: #0C4569;}h2 { font-size: 18px; margin: 15px 0;}h3 { font-size: 15px; margin: 15px 0 10px;}h4 { font-size: 13px; margin: 10px 0;}h5 { font-size: 12px; margin: 10px 0 5px;}  
+    input[type="text"]::-webkit-input-placeholder { font-size: 14px; text-align: left; } input[type="text"]:-ms-input-placeholder { font-size: 14px; text-align: left; } input[type="text"]::-moz-placeholder { font-size: 14px; text-align: left; } input[type="text"]:-moz-placeholder { font-size: 14px; text-align: left; }
+    
